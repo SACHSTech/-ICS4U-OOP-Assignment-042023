@@ -39,8 +39,9 @@ Use Diagram.net to create a class diagram of your system.  Follow the examples g
 
 | Level  |  Criteria |
 |---|---|
-| Level 3  | 3 Classes and an aggregate relationship  |
-| Level 4  | 3+ Classes, aggregate relationship, inheritance/abstract relationship  |
+| Level 3  | 3-4 Classes with aggregate and inheritance relationships.  |
+| Level 4  | 5 Classes with aggregate and inheritance relationships, inheritance, polymorphism  |
+| Level 4+  | 5+ Classes demonstrating aggregate relationship, inheritance, polymorphism, abstract relationship  |
 
 ### README.md
 Add your class diagram to the README.md document of this assignment and include a summary of the system you are modelling.
